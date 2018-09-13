@@ -9,7 +9,9 @@ This first [notebook](https://github.com/sreegp/NYC-Bus-Delay/blob/master/NYC%20
 ## What are the trends in NYC bus delays?
 
 • Manhattan has the greatest number of buses in all of New York City. 
+
 • Average bus delay is New York City is 5.7 minutes and the most common bus delay is approximately 5 minutes. 
+
 • Buses M7, Q56 and M55 were delayed the most in June 2017.
 
 ## Future Analysis
