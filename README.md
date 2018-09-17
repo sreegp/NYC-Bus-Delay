@@ -8,13 +8,16 @@ This first [notebook](https://github.com/sreegp/NYC-Bus-Delay/blob/master/NYC%20
 
 ## What are the trends in NYC bus delays?
 
-• Manhattan has the greatest number of buses in all of New York City. 
+Overall: 
+The average delay was approximately 6 minutes. The longest bus delay was 301 minutes, which is slightly more than 5 hours. The earliest a bus had arrived was 275 minutes ahead of schedule, which is more than 4.5 hours early.
 
-• Average bus delay is New York City is 5.7 minutes and the most common bus delay is approximately 5 minutes. 
+Delay by Time of Day for the Month of June 2017: 
+Average bus delays were 6 minutes or higher between 09:00 or 9am to 16:00 or 4pm. This pattern of delays aligns with "peak hour" traffic that we see on the road while driving. Given that the values have been averaged over an entire month across all bus routes, it might not strictly align to the "peak hour" traffic pattern observed on one day.
 
-• Buses M7, Q56 and M55 were delayed the most in June 2017.
+Most delayed buses: 
+Buses B25, M1, M55, M60-SBS, M7, Q32 and Q56 were considered to be the most delayed as the average bus delay was over 10 minutes through month of June.
 
 ## Future Analysis
 
-Explore different clustering algorithms in the future to predict bus delays.
+Only bus delay was considered in suggesting which buses to avoid. Considering duration of travel and other modes of transporation will give a more complete picture on which buses to avoid. This might require us to find additional data and create attributes that allow us to make comparisons across different modes of transportation.
 
